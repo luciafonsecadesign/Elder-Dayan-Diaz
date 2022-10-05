@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-adelante",
-      "name": "Adelante",
+      "id": "0-entrada",
+      "name": "Entrada",
       "levels": [
         {
           "tileSize": 256,
@@ -16,22 +16,18 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0.018798056480992642,
-        "pitch": 0.000006152419615546023,
-        "fov": 1.3460472818770246
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.0520944518483244,
-          "pitch": 0.2931417431611152,
+          "yaw": -0.0155428321692348,
+          "pitch": 0.5384051917515116,
           "rotation": 0,
           "target": "1-centro"
         }
@@ -54,30 +50,26 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0,
         "pitch": 0,
-        "fov": 1.3460472818770246
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.06430807692542473,
-          "pitch": 0.22018603324108277,
+          "yaw": 5.496458399534276e-9,
+          "pitch": 0.1433476101587985,
           "rotation": 0,
           "target": "2-atrs"
         },
         {
-          "yaw": -3.1210875065757993,
-          "pitch": 0.21280492965098574,
+          "yaw": -3.066125352945292,
+          "pitch": 0.25771307638157204,
           "rotation": 0,
-          "target": "0-adelante"
+          "target": "0-entrada"
         }
       ],
       "infoHotspots": []
@@ -98,36 +90,32 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -3.078781812514004,
-        "pitch": 0.3666082754131672,
-        "fov": 1.3460472818770246
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -3.1291645995488704,
-          "pitch": 0.7404705579714417,
+          "yaw": -3.0895020446561894,
+          "pitch": 0.9122238966708203,
           "rotation": 0,
           "target": "1-centro"
         },
         {
-          "yaw": -3.1090997533118347,
-          "pitch": 0.11653325913926338,
+          "yaw": -3.0911431949156842,
+          "pitch": 0.42094060201669947,
           "rotation": 0,
-          "target": "0-adelante"
+          "target": "0-entrada"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Sprinter op2",
+  "name": "Elder Dayan Diaz 2",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

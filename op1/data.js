@@ -24,14 +24,14 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.09129414548893777,
-        "pitch": 0.2897891958426939,
-        "fov": 1.4210867929104314
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.05679509287486262,
-          "pitch": 0.18609188692213863,
+          "yaw": -0.02455471663929565,
+          "pitch": 0.4835063782617137,
           "rotation": 0,
           "target": "1-centro"
         }
@@ -68,14 +68,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.05545759403762318,
-          "pitch": 0.12352904730627046,
+          "yaw": -0.01777414231026242,
+          "pitch": 0.18878665221356528,
           "rotation": 0,
-          "target": "2-atras"
+          "target": "2-atrs"
         },
         {
-          "yaw": -3.1373638480256076,
-          "pitch": 0.3098041329604335,
+          "yaw": -3.047333990107637,
+          "pitch": 0.23647693997343922,
           "rotation": 0,
           "target": "0-entrada"
         }
@@ -83,8 +83,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-atras",
-      "name": "Atras",
+      "id": "2-atrs",
+      "name": "Atrás",
       "levels": [
         {
           "tileSize": 256,
@@ -112,20 +112,26 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0999638601767483,
-          "pitch": 0.4855246539889908,
+          "yaw": -3.06502948400256,
+          "pitch": 0.9697065705746688,
           "rotation": 0,
           "target": "1-centro"
+        },
+        {
+          "yaw": -3.081915427290454,
+          "pitch": 0.33057643080003984,
+          "rotation": 0,
+          "target": "0-entrada"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Van Sprinter Alejandro",
+  "name": "Elder Dayan Diaz 1",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
