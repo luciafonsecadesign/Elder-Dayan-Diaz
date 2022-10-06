@@ -30,8 +30,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.06167721442155383,
-          "pitch": 0.6629335572082873,
+          "yaw": 0.09595937927868192,
+          "pitch": 0.6632205717142412,
           "rotation": 0,
           "target": "1-centro"
         }
@@ -68,14 +68,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.017762768865249967,
-          "pitch": 0.18652570773497956,
+          "yaw": -0.0044411235939101346,
+          "pitch": 0.17796231822477893,
           "rotation": 0,
-          "target": "2-atras"
+          "target": "2-atrs"
         },
         {
-          "yaw": -3.065545240502182,
-          "pitch": 0.1511486342604691,
+          "yaw": -2.998452472948962,
+          "pitch": 0.20189960807998375,
           "rotation": 0,
           "target": "0-entrada"
         }
@@ -83,8 +83,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-atras",
-      "name": "Atras",
+      "id": "2-atrs",
+      "name": "Atrás",
       "levels": [
         {
           "tileSize": 256,
@@ -112,14 +112,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0427209802353303,
-          "pitch": 0.9028326781459324,
+          "yaw": -3.0637342303191932,
+          "pitch": 0.9315960826656458,
           "rotation": 0,
           "target": "1-centro"
         },
         {
-          "yaw": -3.0519447979867813,
-          "pitch": 0.11047240214848131,
+          "yaw": -3.07730257196679,
+          "pitch": 0.17821994153605303,
           "rotation": 0,
           "target": "0-entrada"
         }
